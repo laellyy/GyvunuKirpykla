@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GyvunuKirpykla/GyvunuKirpykla.vcxproj" Id="01b56852-592c-4528-99de-a80090488fe6" />
+</Solution>
